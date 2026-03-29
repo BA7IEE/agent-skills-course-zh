@@ -3,7 +3,7 @@
 这一页的作用不是重复列目录，而是帮你快速回答两个问题：
 
 - 中文这章，大致对应原课的哪一部分
-- 如果你想回去对照原始材料，应该先看哪个文件
+- 如果你想回去对照原课文件，应该先看哪个文件
 
 ## 映射原则
 
@@ -14,7 +14,7 @@
 
 ## 对照表
 
-| 中文章节 | 对应原始材料 |
+| 中文章节 | 对应原课文件 |
 | --- | --- |
 | 00 课程导读 | `01/Introduction-Transcript.txt`、`01/Course Materials.html`、`Agent Skills with Anthropic.md` |
 | 01 为什么要把重复工作做成 Skill | `02/Why Agent Skills? - Part I - Transcript.txt`、`02/Why Agent Skills? - Part I.html` |
