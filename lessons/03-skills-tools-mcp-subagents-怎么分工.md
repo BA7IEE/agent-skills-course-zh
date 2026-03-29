@@ -170,6 +170,11 @@ skill 和它的关系是：
 - 误区 2：把 skill 当成任何问题的万能答案
 - 误区 3：觉得只要有 subagent，skill 就不重要了
 
+## 本章相关链接
+
+- [Anthropic 博客：Skills Explained](https://www.claude.com/blog/skills-explained)
+- [Claude 支持文档：Teach Claude your Way of Working using Skills](https://support.claude.com/en/articles/12580051-teach-claude-your-way-of-working-using-skills)
+
 ## 本章你应该带走什么
 
 - tool、MCP、skill、subagent 不是同义词

@@ -150,6 +150,13 @@
 - 误区 2：只写“做什么”，不写“什么时候用”
 - 误区 3：把所有边界情况都留给模型临场发挥
 
+## 本章相关链接
+
+- [analyzing-time-series 示例](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L4/custom_skills/analyzing-time-series/)
+- [generating-practice-questions 示例](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L4/custom_skills/generating-practice-questions/)
+- [Anthropic 文档：Skill authoring best practices](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices)
+- [Agent Skills 规范说明](https://agentskills.io/specification)
+
 ## 原课真正想让你学会的，不只是格式本身
 
 看起来这一章在讲字段和规范，但它真正训练的是一种“把工作流结构化”的能力。

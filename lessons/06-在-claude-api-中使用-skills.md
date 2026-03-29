@@ -155,6 +155,19 @@
 - 误区 2：以为 skill 能自动解决运行环境问题
 - 误区 3：把 notebook 里的演示流程直接等同于生产环境方案
 
+## 本章相关链接
+
+- [课程第 5 课代码与文件](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L5)
+- [预先运行好的 notebook 输出](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L5/lesson_5.ipynb)
+- [课程示例输出](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L5/sample_outputs/)
+- [Claude Developer Platform](https://platform.claude.com/dashboard)
+- [Code Execution Tool 预装库列表](https://platform.claude.com/docs/en/agents-and-tools/tool-use/code-execution-tool#pre-installed-libraries)
+- [Streaming 文档](https://platform.claude.com/docs/en/build-with-claude/streaming)
+- [Skills Guide](https://platform.claude.com/docs/en/build-with-claude/skills-guide)
+- [Code Execution Tool](https://platform.claude.com/docs/en/agents-and-tools/tool-use/code-execution-tool)
+- [Files API](https://platform.claude.com/docs/en/build-with-claude/files)
+- [Claude Cookbook: Skills](https://github.com/anthropics/claude-cookbooks/tree/main/skills)
+
 ## 本章你应该带走什么
 
 - skill 在 API 环境里仍然能用，但不代表环境问题自动解决

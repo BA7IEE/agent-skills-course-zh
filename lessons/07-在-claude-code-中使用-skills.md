@@ -163,6 +163,24 @@
 - 误区 2：把每一个小动作都做成独立 skill
 - 误区 3：一开始就上很复杂的 subagent 编排
 
+## 本章相关链接
+
+- [课程代码仓库（L6）](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L6)
+- [课程里的 skills 文件](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L6/.claude/skills/)
+- [课程里的 Subagent Definitions](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L6/.claude/agents)
+- [课程对话 prompts](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L6_notes/prompts.md)
+- [clear.py](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L6_notes/clear.py)
+- [DeepLearning.AI 课程：Claude Code](https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant/)
+- [Skilljar：Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action)
+- [Claude Code 文档：Where skills live](https://code.claude.com/docs/en/skills#where-skills-live)
+- [Claude Code 文档：Frontmatter reference](https://code.claude.com/docs/en/skills#frontmatter-reference)
+- [Claude Code 文档：Control who invokes a skill](https://code.claude.com/docs/en/skills#control-who-invokes-a-skill)
+- [Claude Code 文档：Built-in subagents](https://code.claude.com/docs/en/sub-agents#built-in-subagents)
+- [Claude Code 文档：Run skills in a subagent](https://code.claude.com/docs/en/skills#run-skills-in-a-subagent)
+- [Claude Code Skills 文档总览](https://code.claude.com/docs/en/skills)
+- [Claude Code Sub-agents 指南](https://code.claude.com/docs/en/sub-agents)
+- [Claude Code Skills Troubleshooting](https://code.claude.com/docs/en/skills#troubleshooting)
+
 ## 本章你应该带走什么
 
 - [`CLAUDE.md`](../resources/examples/CLAUDE.md) 管项目背景，skill 管任务方法

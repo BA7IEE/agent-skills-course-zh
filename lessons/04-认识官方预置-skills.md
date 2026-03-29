@@ -121,6 +121,23 @@
 - 误区 2：只看功能，不看它的组织方式
 - 误区 3：觉得“官方做的”就一定不需要改
 
+## 本章相关链接
+
+- [Anthropic skills 总列表](https://github.com/anthropics/skills/tree/main/skills)
+- [pptx skill](https://github.com/anthropics/skills/tree/main/skills/pptx)
+- [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator)
+- [Part 1 prompts](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L3/prompts.md#part-1-updating-the-marketing-skill)
+- [更新后的 marketing skill 文件](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L3/updated_marketing_skill/analyzing-marketing-campaign/)
+- [课程示例 CSV](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L3/campaign_performance_4weeks.csv)
+- [SQLite MCP server](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/sqlite)
+- [BigQuery 配置说明](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L3/additional_references/table_setup.md#bigquery-setup)
+- [SQLite 配置说明](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L3/additional_references/table_setup.md#sqlite-setup)
+- [品牌规范文件](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L3/brand_guidelines_files/)
+- [Part 2 prompts](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L3/prompts.md#part-2--creating-the-brand-guideline-skill)
+- [课程拍摄中生成的品牌 skill 文件](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L3/brand_guidelines_skill/craftedwell-brand/)
+- [Part 3 prompts](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L3/prompts.md#part-3-implementing-the-entire-workflow)
+- [课程拍摄中生成的 Slides 示例](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L3/output_report_example/CraftedWell_Weekly_Report_Dec16-22.pptx)
+
 ## 本章你应该带走什么
 
 - 预置 skills 是最好的学习样本之一
