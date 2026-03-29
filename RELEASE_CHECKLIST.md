@@ -1,4 +1,4 @@
-# First Release Checklist
+# Release Checklist
 
 ## 内容检查
 

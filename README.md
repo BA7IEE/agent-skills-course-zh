@@ -2,7 +2,7 @@
 
 > 一套把英文课程《Agent Skills with Anthropic》重写为中文学习路径的 GitHub 文档课程。
 
-![status](https://img.shields.io/badge/status-ready_for_first_release-2ea44f)
+![status](https://img.shields.io/badge/status-published-2ea44f)
 ![audience](https://img.shields.io/badge/audience-中文零基础%20%2F%20弱英文用户-0969da)
 ![format](https://img.shields.io/badge/format-markdown_course-8250df)
 
@@ -92,7 +92,7 @@ agent-skills-course-zh/
 - [LICENSE](LICENSE)：当前仓库的授权说明
 - [CONTRIBUTING.md](CONTRIBUTING.md)：贡献建议
 - [GITHUB_LAUNCH.md](GITHUB_LAUNCH.md)：GitHub 首发说明、仓库简介和首发文案建议
-- [RELEASE_CHECKLIST.md](RELEASE_CHECKLIST.md)：首发前检查清单
+- [RELEASE_CHECKLIST.md](RELEASE_CHECKLIST.md)：发布检查清单
 
 ## 这套整理版和原课是什么关系
 
@@ -135,7 +135,7 @@ agent-skills-course-zh/
 - [x] 术语表、FAQ、课程映射
 - [x] 原课章节映射与出处整理
 - [x] 开源发布辅助文件
-- [x] 首发前结构自检
+- [x] 发布结构自检
 
 ## 如果你还要继续打磨，建议按这个顺序处理
 
