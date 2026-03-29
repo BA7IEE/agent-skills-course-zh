@@ -36,7 +36,7 @@
 
 原课反复强调，一个 skill 的最小核心是：
 
-- 一个 `SKILL.md`
+- 一个 [`SKILL.md`](../resources/examples/skill-template/SKILL.md)
 - 里面包含 frontmatter
 - 至少写清楚 `name` 和 `description`
 
@@ -97,11 +97,11 @@
 
 ### 3. 主文件不要无限变长
 
-原课建议 `SKILL.md` 保持清晰、简洁，必要时把额外内容拆到外部文件。
+原课建议 [`SKILL.md`](../resources/examples/skill-template/SKILL.md) 保持清晰、简洁，必要时把额外内容拆到外部文件。
 
 再具体一点，原课给出的经验值是：
 
-- `SKILL.md` 尽量控制在 500 行以内
+- [`SKILL.md`](../resources/examples/skill-template/SKILL.md) 尽量控制在 500 行以内
 - 长格式模板、样例输出、领域材料尽量拆到外部文件
 - 让主文件负责总控，让引用文件负责细节
 
@@ -178,7 +178,7 @@
 
 ## 本章你应该带走什么
 
-- skill 的最小入口是 `SKILL.md`
+- skill 的最小入口是 [`SKILL.md`](../resources/examples/skill-template/SKILL.md)
 - 好的 `name` 和 `description` 会直接影响 skill 是否能被正确使用
 - 写 skill 的关键不是写多，而是写清楚流程、边界和触发条件
 

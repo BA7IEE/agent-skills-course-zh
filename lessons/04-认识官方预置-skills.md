@@ -106,7 +106,7 @@
 
 先做两件事：
 
-1. 挑一个成熟预置 skill，拆解它的目录和 `SKILL.md`
+1. 挑一个成熟预置 skill，拆解它的目录和 [`SKILL.md`](../resources/examples/skill-template/SKILL.md)
 2. 用你自己的话复述：这个 skill 解决什么问题、什么时候触发、有哪些资源依赖
 
 只要你能复述清楚，你就已经开始真正理解 skill 设计了。

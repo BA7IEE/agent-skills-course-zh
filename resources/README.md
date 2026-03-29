@@ -16,3 +16,4 @@
 - [glossary.md](glossary.md)：核心术语表，适合第一次扫清概念障碍
 - [faq.md](faq.md)：零基础用户最容易卡住的问题，适合补理解边界
 - [references.md](references.md)：学完后继续往下查什么，适合延伸学习
+- [examples/README.md](examples/README.md)：课程里提到的 `SKILL.md`、`CLAUDE.md` 等示例文件，适合边看边对照

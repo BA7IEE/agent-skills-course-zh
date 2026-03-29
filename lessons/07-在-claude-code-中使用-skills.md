@@ -22,7 +22,7 @@
 
 ## 这里第一次出现的词先解释一下
 
-- `CLAUDE.md`：项目级长期说明文件
+- [`CLAUDE.md`](../resources/examples/CLAUDE.md)：项目级长期说明文件
 - `slash command`：早期的一种命令式自定义入口
 - `subagent`：在主任务之外接手子任务的独立代理
 
@@ -38,9 +38,9 @@
 - 怎么让它和现有代码库一起工作
 - 怎么避免每次都重新解释项目背景
 
-## `CLAUDE.md` 的意义
+## [`CLAUDE.md`](../resources/examples/CLAUDE.md) 的意义
 
-原课展示了一个非常重要的文件：`CLAUDE.md`。
+原课展示了一个非常重要的文件：[`CLAUDE.md`](../resources/examples/CLAUDE.md)。
 
 你可以把它理解成项目级的长期背景说明，它通常会写：
 
@@ -51,7 +51,7 @@
 
 这和 skill 的关系是：
 
-- `CLAUDE.md` 负责项目级长期上下文
+- [`CLAUDE.md`](../resources/examples/CLAUDE.md) 负责项目级长期上下文
 - skill 负责某一类任务的方法
 
 一个偏“背景”，一个偏“流程”。
@@ -59,7 +59,7 @@
 如果你把二者混在一起，通常会出现两种后果：
 
 - 长期背景写进某个 skill，导致 skill 变得笨重
-- 具体工作流写进 `CLAUDE.md`，导致全局上下文越来越脏
+- 具体工作流写进 [`CLAUDE.md`](../resources/examples/CLAUDE.md)，导致全局上下文越来越脏
 
 所以这一章真正有价值的地方，在于它教你怎么分层。
 
@@ -143,7 +143,7 @@
 
 - subagent 不会自动继承主代理的 skills
 - 你必须显式把 skill 分配给对应的 subagent
-- 当 subagent 被派发时，整个 `SKILL.md` 会预先加载进来，而不是只先放名字和描述
+- 当 subagent 被派发时，整个 [`SKILL.md`](../resources/examples/skill-template/SKILL.md) 会预先加载进来，而不是只先放名字和描述
 
 ## 给中文开发者的一个现实建议
 
@@ -159,19 +159,19 @@
 
 ## 常见误区
 
-- 误区 1：把所有项目信息都塞进 `CLAUDE.md`
+- 误区 1：把所有项目信息都塞进 [`CLAUDE.md`](../resources/examples/CLAUDE.md)
 - 误区 2：把每一个小动作都做成独立 skill
 - 误区 3：一开始就上很复杂的 subagent 编排
 
 ## 本章你应该带走什么
 
-- `CLAUDE.md` 管项目背景，skill 管任务方法
+- [`CLAUDE.md`](../resources/examples/CLAUDE.md) 管项目背景，skill 管任务方法
 - Claude Code 里的 skill 更贴近真实工程工作流，而且和项目目录、subagent 配置直接相关
 - skill 和 subagent 配合后，能把开发流程做得更清晰、更稳定
 
 ## 本章练习
 
-- 想一个你现在项目里最重复的开发任务，判断它应该写进 `CLAUDE.md` 还是写成 skill
+- 想一个你现在项目里最重复的开发任务，判断它应该写进 [`CLAUDE.md`](../resources/examples/CLAUDE.md) 还是写成 skill
 - 如果它要进一步拆分，写出一个最简单的 subagent 分工思路
 
 ## 这章学完后可以立刻做什么
@@ -188,6 +188,6 @@
 ## 建议产出
 
 - 一份简单分层草图：
-  - `CLAUDE.md` 放什么
+  - [`CLAUDE.md`](../resources/examples/CLAUDE.md) 放什么
   - skill 放什么
   - subagent 负责什么
