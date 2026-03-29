@@ -155,11 +155,6 @@
 - 误区 2：以为 skill 能自动解决运行环境问题
 - 误区 3：把 notebook 里的演示流程直接等同于生产环境方案
 
-## 本章对应的原始材料
-
-- `07/Skills with the Claude API-Transcript.txt`
-- `07/Skills with the Claude API.html`
-
 ## 本章你应该带走什么
 
 - skill 在 API 环境里仍然能用，但不代表环境问题自动解决

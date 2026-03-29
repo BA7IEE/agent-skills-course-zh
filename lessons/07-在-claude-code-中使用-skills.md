@@ -163,11 +163,6 @@
 - 误区 2：把每一个小动作都做成独立 skill
 - 误区 3：一开始就上很复杂的 subagent 编排
 
-## 本章对应的原始材料
-
-- `08/Skills with Claude Code-Transcript.txt`
-- `08/Skills with Claude Code.html`
-
 ## 本章你应该带走什么
 
 - `CLAUDE.md` 管项目背景，skill 管任务方法

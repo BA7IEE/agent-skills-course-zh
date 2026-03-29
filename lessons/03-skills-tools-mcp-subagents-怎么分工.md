@@ -170,11 +170,6 @@ skill 和它的关系是：
 - 误区 2：把 skill 当成任何问题的万能答案
 - 误区 3：觉得只要有 subagent，skill 就不重要了
 
-## 本章对应的原始材料
-
-- `04/Skills vs Tools, MCP, and Subagents - Transcript.txt`
-- `04/Skills vs Tools, MCP, and Subagents.html`
-
 ## 本章你应该带走什么
 
 - tool、MCP、skill、subagent 不是同义词

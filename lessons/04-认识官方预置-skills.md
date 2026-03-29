@@ -117,11 +117,6 @@
 - 误区 2：只看功能，不看它的组织方式
 - 误区 3：觉得“官方做的”就一定不需要改
 
-## 本章对应的原始材料
-
-- `05/Exploring Pre-Built Skills-Transcript.txt`
-- `05/Exploring Pre-Built Skills.html`
-
 ## 本章你应该带走什么
 
 - 预置 skills 是最好的学习样本之一

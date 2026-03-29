@@ -176,11 +176,6 @@
 
 先写出第一版，再慢慢加边界处理和外部资源。
 
-## 本章对应的原始材料
-
-- `06/Creating Custom Skills-Transcript.txt`
-- `06/Creating Custom Skills.html`
-
 ## 本章你应该带走什么
 
 - skill 的最小入口是 `SKILL.md`
