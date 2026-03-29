@@ -101,6 +101,23 @@ agent-skills-course-zh/
 - 处理方式：保留知识结构，重写中文讲法，补术语解释和中文语境说明
 - 发布策略：公开仓库中不再保留原始英文材料副本，只保留章节映射与中文整理内容
 
+## 来源说明
+
+本仓库基于 DeepLearning.AI 公开课程《Agent Skills with Anthropic》进行学习性整理与中文改写。
+
+- Original course: `Agent Skills with Anthropic`
+- Platform: `DeepLearning.AI`
+- Course page: <https://www.deeplearning.ai/short-courses/agent-skills-with-anthropic/>
+- Instructor: `Elie Schoppik`
+- In partnership with: `Anthropic`
+
+说明：
+
+- 本仓库不是 DeepLearning.AI 或 Anthropic 官方中文版
+- 本仓库不包含原课程视频、逐字稿、页面副本等原始资料
+- 与原课程相关的版权、商标、品牌名称和课程内容权利归原权利人所有
+- 如果权利方认为本仓库的整理、引用或表述方式不合适，仓库维护者会配合修改或移除相关内容
+
 ## 如果你准备公开发布，先确认这几件事
 
 这个仓库虽然已经整理成适合公开发布的结构，但它仍然涉及基于第三方课程资料进行的学习性改写。
