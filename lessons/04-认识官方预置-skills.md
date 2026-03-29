@@ -8,11 +8,15 @@
 
 原课展示了 Anthropic 提供的一些预置 skills，比如：
 
-- Excel
-- PowerPoint
-- Word
-- PDF
-- skill-creator
+- [Excel / xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx)
+- [PowerPoint / pptx](https://github.com/anthropics/skills/tree/main/skills/pptx)
+- [Word / docx](https://github.com/anthropics/skills/tree/main/skills/docx)
+- [PDF](https://github.com/anthropics/skills/tree/main/skills/pdf)
+- [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator)
+
+如果你想直接看官方 skills 总列表，可以从这里进入：
+
+- [Anthropic skills 列表](https://github.com/anthropics/skills/tree/main/skills)
 
 这里有一个很容易被忽略、但其实很重要的细节：
 
