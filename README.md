@@ -128,22 +128,6 @@ agent-skills-course-zh/
 - [LICENSE](LICENSE)
 - [RELEASE_CHECKLIST.md](RELEASE_CHECKLIST.md)
 
-## 当前完成度
-
-- [x] 中文课程首页
-- [x] 10 章中文正文
-- [x] 术语表、FAQ、课程映射
-- [x] 原课章节映射与出处整理
-- [x] 开源发布辅助文件
-- [x] 发布结构自检
-
-## 后续可选增强
-
-1. 再通读一遍每章正文，确认有没有你自己的表达习惯需要替换
-2. 根据你的发布策略确认 `LICENSE` 和 `NOTICE` 文案
-3. 补一个封面图或社交分享图到 `assets/`
-4. 按需补 release 或版本标签
-
 ## 最后说明
 
 - 本仓库以学习整理和中文传播为目的
